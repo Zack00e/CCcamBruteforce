@@ -14,4 +14,4 @@ Also called Cline, CCcline, CCcam and Camd. Card sharing is a method that allows
 * If the checker returns errors or stuck on the same cline for a long time, it might due to the website clines checking issues, try again in a few hours, and it should work :)
 
 ## HINT 
-Make sure you generate more than 1000+ clines to test them, you should eventually get a good clines.
+Make sure you generate more than +1000 clines to test them, you should eventually get a good clines.
