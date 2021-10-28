@@ -9,6 +9,6 @@ Also called Cline, CCcline, CCcam and Camd. Card sharing is a method that allows
 * Run ```./start.sh``` inside terminal and follow instructions.
 * Done! grab a coffee and wait!
 
-## Caution 
+## Important 
 * Only two CCcam providers added at the moment.
 * If the checker returns errors or stuck on the same cline for a long time, it might due to the website clines checking issues, try again in a few hours, and it should work :)
