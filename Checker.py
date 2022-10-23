@@ -4,13 +4,7 @@
 import requests
 import time
 from colorama import init, Fore
-init()
-print(Fore.BLUE + """    ____ _ _                
-  / ___| (_)_ __   ___ ____
- | |   | | | '_ \ / _ \_  /
- | |___| | | | | |  __// / 
-  \____|_|_|_| |_|\___/___|
-                            by Zack00e """)                        
+init()               
 time.sleep(2)
 print(Fore.GREEN + 'Good lines.')
 print(Fore.YELLOW + 'Good lines but already in use.')
