@@ -1,5 +1,3 @@
-#Written by Zack00e
-#https://github.com/Zack00e
 
 import sys
 import random
